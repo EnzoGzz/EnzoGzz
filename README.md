@@ -1,4 +1,4 @@
-### Hi, I'm an IT student 👋
+### Hi, I'm a French IT student 👋
 
 Read me incoming...
 
