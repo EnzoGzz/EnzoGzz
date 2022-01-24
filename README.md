@@ -2,7 +2,8 @@
 
 Read me incoming...
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGzz
+<img alt="meow" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGzz"/>
+
 
 ## 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 
