@@ -1,9 +1,20 @@
 ### Hi, I'm a French IT student 👋
 
-Read me incoming...
+I'm a web developer versatile full-stack web developer 🌐 also interested in network & system administration. ⚙️
+<br/>
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzogzz&layout=compact&theme=radical&hide_border=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzogzz&show_icons=true&theme=radical&hide_border=true)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/EnzoGzz/EnzoGzz/main/assets/gif.gif" width="280px"/>
+
+### 🧐 More About Me:
+
+- 📚 &nbsp; I'm currently finishing my Two-year university degree in IT technology.
+- 🎨 &nbsp; I'm quite good using [Photoshop](https://www.adobe.com/products/photoshop.html).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/enzogzz?tab=repositories).
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
+- 🐧 &nbsp; I'm a [(arch) Linux](https://archlinux.org/) guy :D.
+- 👾 &nbsp; I'm playing video game on my free time.
+<br>
 
 ## 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 
@@ -25,3 +36,9 @@ Read me incoming...
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
+
+## 📊️&nbsp;&nbsp;Github&nbsp;Stats
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzogzz&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzogzz&layout=compact&theme=radical&hide_border=true)
