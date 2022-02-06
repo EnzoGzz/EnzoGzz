@@ -13,7 +13,7 @@ I'm a web developer versatile full-stack web developer 🌐 also interested in n
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/enzogzz?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 🐧 &nbsp; I'm a [(arch) Linux](https://archlinux.org/) guy :D.
-- 👾 &nbsp; I'm playing video game on my free time.
+- 👾 &nbsp; I'm playing video games on my free time.
 <br>
 
 ## 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
