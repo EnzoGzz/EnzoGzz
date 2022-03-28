@@ -1,6 +1,6 @@
 ### Hi, I'm a French IT student 👋
 
-I'm a web developer versatile full-stack web developer 🌐 also interested in network & system administration. ⚙️
+I'm a versatile full-stack web developer 🌐 also interested in network & system administration. ⚙️
 <br/>
 <br/>
 
